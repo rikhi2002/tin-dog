@@ -1,0 +1,168 @@
+h1{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "montserrat";
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "montserrat";
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+p{
+  color: grey;
+}
+
+#title{
+  background-color: #ff4c68;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+.navbar-nav{
+  font-weight: bold;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "montserrat";
+  font-weight: lighter;
+}
+
+.nav-item{
+  margin: 0 15px;
+}
+
+.navbar{
+  margin-bottom: 4rem;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.phone{
+  margin-bottom: 100px;
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+}
+
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.fas{
+  color: #ef8172;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.fas:hover{
+  color: #ff4c68;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonials-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+.card-title{
+  color: black;
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+#pricing{
+  text-align: center;
+  padding: 4% 2%;
+}
+
+.container-fluid{
+  padding: 0 150px;
+}
+
+.pricing-col{
+  padding: 0 20px;
+}
+
+.pricing-p{
+  padding-bottom: 30px;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.cta-header{
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding: 70px 400px 50px;
+  margin-bottom: 0;
+  color: #fff;
+}
+
+.download-button-cta{
+  margin: 0 10px 80px;
+}
+
+#footer{
+  text-align: center;
+  padding: 70px 30px;
+  background-color: #fff;
+}
+
+.footer-describtion{
+  margin: 0;
+}
+
+.footer-icon{
+  margin: 0 5px 15px;
+}
